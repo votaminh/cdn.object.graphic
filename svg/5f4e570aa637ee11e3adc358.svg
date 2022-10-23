@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="945" height="945" viewBox="0 0 945 945">
+  <title>digital21_163914072</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="_163914072">
+      <g id="digital21_163914072">
+        <path d="M472.5,945C212,945,0,733,0,472.5S212,0,472.5,0,945,212,945,472.5,733,945,472.5,945Zm0-905.6C233.7,39.4,39.4,233.7,39.4,472.5S233.7,905.6,472.5,905.6,905.6,711.3,905.6,472.5,711.3,39.4,472.5,39.4Z" fill="#a8c9ec"/>
+        <polygon points="689.1 492.2 452.8 492.2 452.8 157.5 492.2 157.5 492.2 452.8 689.1 452.8 689.1 492.2" fill="#fff"/>
+        <rect x="452.8" y="78.8" width="39.4" height="39.38" fill="#ffa58d"/>
+        <rect x="265.8" y="128.9" width="39.4" height="39.37" transform="translate(-36 162.6) rotate(-30)" fill="#ffa58d"/>
+        <rect x="128.9" y="265.8" width="39.4" height="39.37" transform="translate(-173 271.4) rotate(-60)" fill="#ffa58d"/>
+        <rect x="78.8" y="452.8" width="39.4" height="39.38" fill="#ffa58d"/>
+        <rect x="128.8" y="639.8" width="39.4" height="39.38" transform="translate(-309.8 162.6) rotate(-30)" fill="#ffa58d"/>
+        <rect x="265.8" y="776.8" width="39.4" height="39.36" transform="translate(-547 645.3) rotate(-60)" fill="#ffa58d"/>
+        <rect x="452.8" y="826.9" width="39.4" height="39.38" fill="#ffa58d"/>
+        <rect x="639.8" y="776.8" width="39.4" height="39.37" transform="translate(-309.8 436.3) rotate(-30)" fill="#ffa58d"/>
+        <rect x="776.8" y="639.9" width="39.4" height="39.35" transform="translate(-172.9 1019.8) rotate(-60)" fill="#ffa58d"/>
+        <rect x="826.9" y="452.8" width="39.4" height="39.38" fill="#ffa58d"/>
+        <rect x="776.8" y="265.8" width="39.4" height="39.38" transform="translate(-36 436.4) rotate(-30)" fill="#ffa58d"/>
+        <rect x="639.9" y="128.9" width="39.3" height="39.36" transform="translate(201 645.4) rotate(-60)" fill="#ffa58d"/>
+      </g>
+    </g>
+  </g>
+</svg>

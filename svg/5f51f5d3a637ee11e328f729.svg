@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <defs>
+    <linearGradient id="linear-gradient" y1="540" x2="1080" y2="540" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f48729"/>
+      <stop offset="0.11" stop-color="#e7693b"/>
+      <stop offset="0.28" stop-color="#d74153"/>
+      <stop offset="0.42" stop-color="#cd2962"/>
+      <stop offset="0.5" stop-color="#c92067"/>
+      <stop offset="1" stop-color="#46b9e9"/>
+    </linearGradient>
+  </defs>
+  <title>gradient_191</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_8" data-name="Layer 8">
+      <rect id="gradient_191" width="1080" height="1080" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>
