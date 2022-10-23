@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1057" height="1057" viewBox="0 0 1057 1057">
+  <defs>
+    <radialGradient id="radial-gradient" cx="528.51" cy="528.51" r="528.51" gradientTransform="translate(528.5 -218.9) rotate(45)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fcc519"/>
+      <stop offset="0.57" stop-color="#fcc319"/>
+      <stop offset="0.77" stop-color="#fabc1b"/>
+      <stop offset="0.91" stop-color="#f8b11d"/>
+      <stop offset="1" stop-color="#f6a520"/>
+    </radialGradient>
+  </defs>
+  <title>licemoji17_107225338</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="licemoji17_107225338">
+      <g>
+        <circle cx="528.5" cy="528.5" r="528.5" transform="translate(-218.9 528.5) rotate(-45)" fill="url(#radial-gradient)"/>
+        <g>
+          <path d="M265.8,433.5c-.5-24.5-15.8-33.2-39.4-34.7h0c-24.1,1.2-40.4,11.8-40.4,33h0a25.1,25.1,0,0,1-25.1,25h0a25,25,0,0,1-24.9-25h0c0-55.1,49.1-82.9,90.4-83.1h0c41,.2,89.4,28.7,89.4,84.8h0a24.9,24.9,0,0,1-24.9,24.9h0a25.1,25.1,0,0,1-25.1-24.9Z" fill="#422918"/>
+          <path d="M870.9,433.5c-.4-24.4-15.9-33.1-39.3-34.7h0c-24.2,1.2-40.5,11.7-40.5,33h0a25,25,0,0,1-25,25h0a25,25,0,0,1-25-25h0c0-55.2,49.1-83,90.5-83.1h0c40.9.1,89.3,28.7,89.4,84.8h.1a25.2,25.2,0,0,1-25.1,25h0a25.1,25.1,0,0,1-25.1-25Z" fill="#422918"/>
+        </g>
+        <path d="M155.4,682.8a25.1,25.1,0,0,1-25-25h0a25.1,25.1,0,0,1,25-25.1H901.5a25.1,25.1,0,0,1,25,25.1h0a25.1,25.1,0,0,1-25,25H155.4Z" fill="#422918"/>
+      </g>
+    </g>
+  </g>
+</svg>

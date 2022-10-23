@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1080" height="985.3" viewBox="0 0 1080 985.3">
+  <defs>
+    <linearGradient id="linear-gradient" x1="540" y1="-219.65" x2="540" y2="674.44" gradientUnits="userSpaceOnUse">
+      <stop offset="0.02" stop-color="#df0782"/>
+      <stop offset="0.2" stop-color="#a90780"/>
+      <stop offset="0.51" stop-color="#4d067d"/>
+      <stop offset="0.66" stop-color="#29067c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="542.25" y1="-111.43" x2="542.25" y2="782.65" gradientUnits="userSpaceOnUse">
+      <stop offset="0.02" stop-color="#df0782"/>
+      <stop offset="0.2" stop-color="#a90780"/>
+      <stop offset="0.53" stop-color="#4d067d"/>
+      <stop offset="0.68" stop-color="#29067c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="546.34" y1="15.94" x2="546.34" y2="910.02" gradientUnits="userSpaceOnUse">
+      <stop offset="0.02" stop-color="#df0782"/>
+      <stop offset="0.21" stop-color="#a90780"/>
+      <stop offset="0.55" stop-color="#4d067d"/>
+      <stop offset="0.71" stop-color="#29067c"/>
+    </linearGradient>
+  </defs>
+  <title>AmorphousShapes19_279775904</title>
+  <g id="Слой_2" data-name="Слой 2">
+    <g id="AmorphousShapes19_279775904">
+      <g id="AmorphousShapes19_279775904-2" data-name="AmorphousShapes19_279775904">
+        <path d="M280.7,772.7C61.7,719.1-7.9,565.7,30.9,453.9c11.2-31.9,7.9-66.6-8.2-96.7C-76.7,172.5,169.6-78.3,392.8,23.5c29.2,13.3,63.1,14.9,93.9,5A351.4,351.4,0,0,1,595.2,11.8c429.5,0,673.6,520.4,303.4,683.9-40,17.7-68.5,51.6-77.1,91.7-10.1,46.9-29.9,92.6-65.8,128.4C545.2,1126,369.1,794.4,280.7,772.7Z" fill="url(#linear-gradient)"/>
+        <path d="M472.6,849.6C295.5,652.3,3.8,625.3,126.9,434.7a64.1,64.1,0,0,0-1-72C106.1,334,82.5,297.2,81.3,253.3,79.9,197.4,114,148.2,182.7,107.2c174-104,178.7,64.8,298.6,5.6,239.2-118,675.6,212.9,467.1,473.3l-.9,1.2-1,1c-40.7,46.8-87.8,63.9-133.6,71.2-34.4,5.4-60.1,32.4-61.3,64.6C744,917.9,558.7,945.6,472.6,849.6Z" fill="url(#linear-gradient-2)"/>
+        <path d="M211.4,450.1C285.6,360.5,42,277.7,222.9,169.6c134.1-80.1,114.1,99,297.3,8.6,174.1-85.9,539.5,175,377.6,377.3C808.5,658,664.2,549.4,681.3,685.8c21.9,174-96.7,190.4-147.5,133.7-49-54.5-53.4-83.8-175.6-157.2C336.6,649.4,88.6,598.4,211.4,450.1Z" fill="url(#linear-gradient-3)"/>
+      </g>
+    </g>
+  </g>
+</svg>

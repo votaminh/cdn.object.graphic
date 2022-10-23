@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1002.8" height="1002.8" viewBox="0 0 1002.8 1002.8">
+  <defs>
+    <linearGradient id="linear-gradient" x1="501.38" y1="1002.75" x2="501.38" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd669"/>
+      <stop offset="0.28" stop-color="#ffd368"/>
+      <stop offset="0.45" stop-color="#fecb67"/>
+      <stop offset="0.58" stop-color="#fdbd64"/>
+      <stop offset="0.71" stop-color="#fca95f"/>
+      <stop offset="0.82" stop-color="#fb8e59"/>
+      <stop offset="0.92" stop-color="#f96e53"/>
+      <stop offset="1" stop-color="#f7504c"/>
+    </linearGradient>
+  </defs>
+  <title>emoji73_214584234</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="emoji73_214584234">
+      <g>
+        <circle cx="501.4" cy="501.4" r="501.4" fill="url(#linear-gradient)"/>
+        <path d="M346.8,807.3c0-17.3,69.2-43.7,154.6-43.7S656,790,656,807.3s-69.2,23.2-154.6,23.2-154.6-5.8-154.6-23.2" fill="#231f20"/>
+        <g>
+          <g>
+            <circle cx="724.4" cy="628.4" r="45.1" fill="#231f20"/>
+            <path d="M634.7,619.5c-12.7,0-25.9-.3-39.6-1.1a20.9,20.9,0,1,1,2.2-41.7c109.6,5.8,178.1-14.7,216.4-32.9s53-37,53.2-37.2a20.9,20.9,0,1,1,33.5,24.9C897.6,535.3,832.8,619.5,634.7,619.5Z" fill="#231f20"/>
+          </g>
+          <g>
+            <circle cx="278.4" cy="628.4" r="45.1" fill="#231f20"/>
+            <path d="M368.1,619.5c12.6,0,25.8-.3,39.6-1.1a20.9,20.9,0,0,0-2.3-41.7c-109.5,5.8-178.1-14.7-216.3-32.9s-53.1-37-53.2-37.2a20.9,20.9,0,1,0-33.6,24.9C105.1,535.3,170,619.5,368.1,619.5Z" fill="#231f20"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

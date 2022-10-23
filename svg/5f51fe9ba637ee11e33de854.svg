@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1080" height="947" viewBox="0 0 1080 947">
+  <defs>
+    <linearGradient id="Безымянный_градиент_1456" data-name="Безымянный градиент 1456" x1="962.27" y1="631.97" x2="19.39" y2="405.85" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1240e4"/>
+      <stop offset="0.5" stop-color="#8613e8"/>
+      <stop offset="1" stop-color="#f14f59"/>
+    </linearGradient>
+  </defs>
+  <title>AmorphousShapes09_255981758</title>
+  <g id="Слой_2" data-name="Слой 2">
+    <g id="AmorphousShapes09_255981758">
+      <path id="AmorphousShapes09_255981758-2" data-name="AmorphousShapes09_255981758" d="M1080,608.5c0,106.8-86.6,193.4-193.4,193.4a205.9,205.9,0,0,1-20.9-1.1h0C573.1,769.1,544.9,775,289.6,921.4h0A191.9,191.9,0,0,1,193.5,947C86.6,947,0,860.4,0,753.6A192.5,192.5,0,0,1,41,634.5h0C174,464.2,185.3,444.6,193.6,206.2h0C197.5,91.7,291.6,0,407,0A213.5,213.5,0,0,1,590.4,104C723.6,325.5,745.4,338.6,960,429.5,1030.4,458.5,1080,527.7,1080,608.5Z" fill="url(#Безымянный_градиент_1456)"/>
+    </g>
+  </g>
+</svg>

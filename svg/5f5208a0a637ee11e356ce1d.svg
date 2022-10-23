@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="987.3" height="953.5" viewBox="0 0 987.3 953.5">
+  <title>banner75_153399194</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_2-2" data-name="Layer 2">
+      <g id="banner75_153399194">
+        <polygon points="495.2 953.5 18.4 476.8 495.2 0 971.9 476.8 495.2 953.5" fill="#00fcf4"/>
+        <path d="M839.4,821H150.9V132.5H839.4ZM165.2,806.8h660v-660h-660Z" fill="#282d33"/>
+        <g>
+          <rect x="932" y="472.9" width="55.3" height="14.24" fill="#282d33"/>
+          <rect x="919.9" y="380.6" width="55.3" height="14.24" transform="matrix(0.97, -0.26, 0.26, 0.97, -68.07, 258.43)" fill="#282d33"/>
+          <rect x="940.4" y="544.6" width="14.2" height="55.3" transform="translate(149.8 1339.6) rotate(-75)" fill="#282d33"/>
+        </g>
+        <g>
+          <rect y="472.9" width="55.3" height="14.24" fill="#282d33"/>
+          <rect x="32.7" y="360.1" width="14.2" height="55.29" transform="translate(-345.1 325.8) rotate(-75)" fill="#282d33"/>
+          <rect x="12.1" y="565.1" width="55.3" height="14.24" transform="translate(-146.6 29.7) rotate(-15)" fill="#282d33"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

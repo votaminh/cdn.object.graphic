@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1080" height="825.9" viewBox="0 0 1080 825.9">
+  <defs>
+    <linearGradient id="Безымянный_градиент_1423" data-name="Безымянный градиент 1423" y1="412.94" x2="1080" y2="412.94" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f5ffcc"/>
+      <stop offset="1" stop-color="#9cff79"/>
+    </linearGradient>
+  </defs>
+  <title>AjoureShapes_02</title>
+  <g id="Слой_2" data-name="Слой 2">
+    <g id="мои">
+      <path id="AjoureShapes_02" d="M1004.7,143.2H852.5C776.8,55.5,664.9,0,540,0S303.2,55.5,227.5,143.2H75.3A75.3,75.3,0,0,1,0,218.5V606.2a75.3,75.3,0,0,1,75.3,75.3H226.5c75.7,88.3,188,144.4,313.5,144.4s237.8-56.1,313.5-144.4h151.2a75.3,75.3,0,0,1,75.3-75.3V218.5A75.3,75.3,0,0,1,1004.7,143.2Z" fill="url(#Безымянный_градиент_1423)"/>
+    </g>
+  </g>
+</svg>
